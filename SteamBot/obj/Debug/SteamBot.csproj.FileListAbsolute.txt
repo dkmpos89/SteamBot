@@ -1,0 +1,11 @@
+c:\users\diego.campos\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\SteamBot.exe.config
+C:\Users\diego.campos\documents\visual studio 2015\Projects\SteamBot\SteamBot\obj\Debug\SteamBot.csprojResolveAssemblyReference.cache
+C:\Users\diego.campos\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\SteamBot.exe
+C:\Users\diego.campos\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\SteamBot.pdb
+C:\Users\diego.campos\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\protobuf-net.dll
+C:\Users\diego.campos\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\SteamKit2.dll
+C:\Users\diego.campos\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\protobuf-net.pdb
+C:\Users\diego.campos\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\protobuf-net.xml
+C:\Users\diego.campos\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\SteamKit2.xml
+C:\Users\diego.campos\documents\visual studio 2015\Projects\SteamBot\SteamBot\obj\Debug\SteamBot.exe
+C:\Users\diego.campos\documents\visual studio 2015\Projects\SteamBot\SteamBot\obj\Debug\SteamBot.pdb
